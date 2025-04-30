@@ -1,0 +1,41 @@
+/**
+ * Book Recommender Admin Styles
+ */
+
+/* Settings Page */
+.bookrec-settings h2 {
+    margin-bottom: 1em;
+}
+
+.bookrec-settings .form-table th {
+    width: 250px;
+}
+
+/* Tabs */
+.tab-content {
+    display: none;
+    padding: 15px 0;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+/* Make textareas wider */
+.bookrec-settings textarea.large-text {
+    width: 100%;
+    max-width: 800px;
+}
+
+/* Field descriptions */
+.bookrec-settings .description {
+    margin-top: 5px;
+    font-style: italic;
+}
+
+/* Version info */
+.bookrec-version-info {
+    color: #666;
+    font-size: 12px;
+    margin-top: 20px;
+}

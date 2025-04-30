@@ -1,0 +1,31 @@
+/* 
+ * Book Recommender Frontend Styles
+ * This file exists for when we need to load styles without the full React bundle
+ */
+
+/* Base container styles */
+.bookrec-chatbot-container {
+  width: 100%;
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  min-height: 400px;
+}
+
+/* Loading state styles */
+.bookrec-loading {
+  text-align: center;
+  padding: 20px;
+}
+
+/* Utility styles needed before React loads */
+.text-center {
+  text-align: center;
+}
+
+.p-4 {
+  padding: 16px;
+}

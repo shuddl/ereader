@@ -1,0 +1,30 @@
+{
+    "name": "goodereader/bookrec",
+    "description": "Good E-Reader Book Recommendation chatbot WordPress plugin",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.0.0",
+        "mpdf/mpdf": "^8.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "wp-cli/wp-cli-bundle": "^2.7",
+        "yoast/phpunit-polyfills": "^1.0",
+        "brain/monkey": "^2.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "GoodEReader\\BookRec\\": "includes/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "GoodEReader\\BookRec\\Tests\\": "tests/php/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit"
+    }
+}

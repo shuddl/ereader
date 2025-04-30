@@ -1,0 +1,234 @@
+[
+  {
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "genre": "Fiction",
+    "description": "Between life and death there is a library, and within that library, the shelves go on forever. Every book provides a chance to try another life you could have lived.",
+    "cover_url": "https://m.media-amazon.com/images/I/81tCtHFtOlL._AC_UY218_.jpg",
+    "amazon_search_query": "The Midnight Library Matt Haig"
+  },
+  {
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "genre": "Science Fiction",
+    "description": "A lone astronaut must save the earth from disaster in this incredible new science-based thriller from the #1 New York Times bestselling author of The Martian.",
+    "cover_url": "https://m.media-amazon.com/images/I/81wF+2q9cTL._AC_UY218_.jpg",
+    "amazon_search_query": "Project Hail Mary Andy Weir"
+  },
+  {
+    "title": "A Court of Thorns and Roses",
+    "author": "Sarah J. Maas",
+    "genre": "Fantasy",
+    "description": "When nineteen-year-old huntress Feyre kills a wolf in the woods, a terrifying creature arrives to demand retribution. Dragged to a magical land, Feyre discovers her captor is not truly a beast, but one of the lethal, immortal faeries.",
+    "cover_url": "https://m.media-amazon.com/images/I/81Z815tZK5L._AC_UY218_.jpg",
+    "amazon_search_query": "A Court of Thorns and Roses Sarah J. Maas"
+  },
+  {
+    "title": "Fourth Wing",
+    "author": "Rebecca Yarros",
+    "genre": "BookTok",
+    "description": "Twenty-year-old Violet Sorrengail was supposed to join the Scribe Quadrant, but instead she's forced to enter the dangerous Riders Quadrant, where she must bond with a dragon and survive in combat.",
+    "cover_url": "https://m.media-amazon.com/images/I/91In4uqmYXL._AC_UY218_.jpg",
+    "amazon_search_query": "Fourth Wing Rebecca Yarros"
+  },
+  {
+    "title": "From Blood and Ash",
+    "author": "Jennifer L. Armentrout",
+    "genre": "Paranormal Romance",
+    "description": "A Maiden chosen from birth to usher in a new era, a Maiden who has been promised to the future king, Hawke, a man who is forbidden to rule and forbidden to Poppy, is coming closer to claiming what has always been his.",
+    "cover_url": "https://m.media-amazon.com/images/I/91LT5-tADYL._AC_UY218_.jpg",
+    "amazon_search_query": "From Blood and Ash Jennifer L. Armentrout"
+  },
+  {
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "genre": "Mystery",
+    "description": "Alicia Berenson's life is seemingly perfect. A famous painter married to an in-demand fashion photographer, she lives in a grand house in London. One evening, her husband returns home late and Alicia shoots him five times in the face.",
+    "cover_url": "https://m.media-amazon.com/images/I/91tqpGguNZL._AC_UY218_.jpg",
+    "amazon_search_query": "The Silent Patient Alex Michaelides"
+  },
+  {
+    "title": "The Push",
+    "author": "Ashley Audrain",
+    "genre": "Thriller",
+    "description": "A tense, page-turning psychological drama about the making and breaking of a family, about a woman whose experience of motherhood is nothing at all what she hoped for—and everything she feared.",
+    "cover_url": "https://m.media-amazon.com/images/I/81sAWbe5JFL._AC_UY218_.jpg",
+    "amazon_search_query": "The Push Ashley Audrain"
+  },
+  {
+    "title": "The Lincoln Highway",
+    "author": "Amor Towles",
+    "genre": "Historical Fiction",
+    "description": "In June 1954, eighteen-year-old Emmett Watson is driven home to Nebraska by the warden of the juvenile work farm where he has served fifteen months for involuntary manslaughter.",
+    "cover_url": "https://m.media-amazon.com/images/I/91OxLgHSQLL._AC_UY218_.jpg",
+    "amazon_search_query": "The Lincoln Highway Amor Towles"
+  },
+  {
+    "title": "The Inheritance Games",
+    "author": "Jennifer Lynn Barnes",
+    "genre": "Young Adult",
+    "description": "A Cinderella story with deadly stakes and thrilling twists, perfect for fans of One of Us is Lying and Knives Out.",
+    "cover_url": "https://m.media-amazon.com/images/I/81BKdIFCFNL._AC_UY218_.jpg",
+    "amazon_search_query": "The Inheritance Games Jennifer Lynn Barnes"
+  },
+  {
+    "title": "The Love Hypothesis",
+    "author": "Ali Hazelwood",
+    "genre": "Romance",
+    "description": "When a fake relationship between scientists meets the irresistible force of attraction, it throws one woman's carefully calculated theories on love into chaos.",
+    "cover_url": "https://m.media-amazon.com/images/I/815O6N8o7UL._AC_UY218_.jpg",
+    "amazon_search_query": "The Love Hypothesis Ali Hazelwood"
+  },
+  {
+    "title": "Tomorrow, and Tomorrow, and Tomorrow",
+    "author": "Gabrielle Zevin",
+    "genre": "Literary Fiction",
+    "description": "A modern love story about two childhood friends, Sam and Sadie, who reunite as adults to create video games, finding an intimacy in their work that they cannot find elsewhere.",
+    "cover_url": "https://m.media-amazon.com/images/I/91g3lCEKmAL._AC_UY218_.jpg",
+    "amazon_search_query": "Tomorrow, and Tomorrow, and Tomorrow Gabrielle Zevin"
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-Help",
+    "description": "No matter your goals, Atomic Habits offers a proven framework for improving—every day. This year, transform your life with tiny changes that yield remarkable results.",
+    "cover_url": "https://m.media-amazon.com/images/I/81bGKUa1e0L._AC_UY218_.jpg",
+    "amazon_search_query": "Atomic Habits James Clear"
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "genre": "Biography",
+    "description": "An unforgettable memoir about a young girl who, kept out of school, leaves her survivalist family and goes on to earn a PhD from Cambridge University.",
+    "cover_url": "https://m.media-amazon.com/images/I/81NwOj14S6L._AC_UY218_.jpg",
+    "amazon_search_query": "Educated Tara Westover"
+  },
+  {
+    "title": "Principles: Life and Work",
+    "author": "Ray Dalio",
+    "genre": "Business",
+    "description": "In Principles, Dalio shares what he's learned over the course of his remarkable career. He argues that life, management, economics, and investing can all be systemized into rules.",
+    "cover_url": "https://m.media-amazon.com/images/I/71FQzK-SodL._AC_UY218_.jpg",
+    "amazon_search_query": "Principles Life and Work Ray Dalio"
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "genre": "Science",
+    "description": "A landmark volume in science writing by one of the great minds of our time, Stephen Hawking's book explores such profound questions as: How did the universe begin—and what made its start possible?",
+    "cover_url": "https://m.media-amazon.com/images/I/A1xkFZX5k-L._AC_UY218_.jpg",
+    "amazon_search_query": "A Brief History of Time Stephen Hawking"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "genre": "History",
+    "description": "From a renowned historian comes a groundbreaking narrative of humanity's creation and evolution—a #1 international bestseller—that explores the ways in which biology and history have defined us.",
+    "cover_url": "https://m.media-amazon.com/images/I/71LMXL8DTxL._AC_UY218_.jpg",
+    "amazon_search_query": "Sapiens A Brief History of Humankind Yuval Noah Harari"
+  },
+  {
+    "title": "AI Superpowers",
+    "author": "Kai-Fu Lee",
+    "genre": "Technology",
+    "description": "Dr. Kai-Fu Lee—one of the world's most respected experts on AI and China—reveals that China has suddenly caught up to the US at an astonishingly rapid and unexpected pace.",
+    "cover_url": "https://m.media-amazon.com/images/I/71-tsUVxIWL._AC_UY218_.jpg",
+    "amazon_search_query": "AI Superpowers Kai-Fu Lee"
+  },
+  {
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "genre": "Philosophy",
+    "description": "Written in Greek by the only Roman emperor who was also a philosopher, without any intention of publication, the Meditations of Marcus Aurelius offer a remarkable series of challenging spiritual reflections.",
+    "cover_url": "https://m.media-amazon.com/images/I/61PoU7RgOhL._AC_UY218_.jpg",
+    "amazon_search_query": "Meditations Marcus Aurelius"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "Psychology",
+    "description": "The renowned psychologist and winner of the Nobel Prize in Economics takes us on a groundbreaking tour of the mind and explains the two systems that drive the way we think.",
+    "cover_url": "https://m.media-amazon.com/images/I/61utBmrXAdL._AC_UY218_.jpg",
+    "amazon_search_query": "Thinking, Fast and Slow Daniel Kahneman"
+  },
+  {
+    "title": "Salt, Fat, Acid, Heat",
+    "author": "Samin Nosrat",
+    "genre": "Cooking",
+    "description": "A visionary new master class in cooking that distills decades of professional experience into just four simple elements, from the woman declared "America's next great cooking teacher" by Alice Waters.",
+    "cover_url": "https://m.media-amazon.com/images/I/81bFzlGFBOL._AC_UY218_.jpg",
+    "amazon_search_query": "Salt, Fat, Acid, Heat Samin Nosrat"
+  },
+  {
+    "title": "Wild",
+    "author": "Cheryl Strayed",
+    "genre": "Travel",
+    "description": "At twenty-two, Cheryl Strayed thought she had lost everything. In the wake of her mother's death, her family scattered and her own marriage was soon destroyed. Four years later, with nothing more to lose, she made the most impulsive decision of her life.",
+    "cover_url": "https://m.media-amazon.com/images/I/81zRFrh1f9L._AC_UY218_.jpg",
+    "amazon_search_query": "Wild Cheryl Strayed"
+  },
+  {
+    "title": "The Very Hungry Caterpillar",
+    "author": "Eric Carle",
+    "genre": "Children's Books",
+    "description": "The all-time classic picture book, from generation to generation, sold somewhere in the world every 30 seconds!",
+    "cover_url": "https://m.media-amazon.com/images/I/81UQaJvJEvL._AC_UY218_.jpg",
+    "amazon_search_query": "The Very Hungry Caterpillar Eric Carle"
+  },
+  {
+    "title": "The Hill We Climb",
+    "author": "Amanda Gorman",
+    "genre": "Poetry",
+    "description": "On January 20, 2021, Amanda Gorman became the sixth and youngest poet, at age twenty-two, to deliver a poetry reading at a presidential inauguration.",
+    "cover_url": "https://m.media-amazon.com/images/I/81bGK9+UpPL._AC_UY218_.jpg",
+    "amazon_search_query": "The Hill We Climb Amanda Gorman"
+  },
+  {
+    "title": "Watchmen",
+    "author": "Alan Moore",
+    "genre": "Graphic Novels",
+    "description": "This Hugo Award-winning graphic novel chronicles the fall from grace of a group of super-heroes plagued by all-too-human failings.",
+    "cover_url": "https://m.media-amazon.com/images/I/71o+U5uOQnL._AC_UY218_.jpg",
+    "amazon_search_query": "Watchmen Alan Moore"
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "description": "Jack Torrance's new job at the Overlook Hotel is the perfect chance for a fresh start. As the off-season caretaker at the atmospheric old hotel, he'll have plenty of time to spend reconnecting with his family and working on his writing.",
+    "cover_url": "https://m.media-amazon.com/images/I/81w6RyULjIL._AC_UY218_.jpg",
+    "amazon_search_query": "The Shining Stephen King"
+  },
+  {
+    "title": "The Thursday Murder Club",
+    "author": "Richard Osman",
+    "genre": "Crime Fiction",
+    "description": "In a peaceful retirement village, four unlikely friends meet weekly in the Jigsaw Room to discuss unsolved crimes; together they call themselves the Thursday Murder Club.",
+    "cover_url": "https://m.media-amazon.com/images/I/91n1850-8kL._AC_UY218_.jpg",
+    "amazon_search_query": "The Thursday Murder Club Richard Osman"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "description": "Winston Smith toes the Party line, rewriting history to satisfy the demands of the Ministry of Truth. With each lie he writes, Winston grows to hate the Party that seeks power for its own sake and persecutes those who dare to commit thoughtcrimes.",
+    "cover_url": "https://m.media-amazon.com/images/I/71kxa1-0mfL._AC_UY218_.jpg",
+    "amazon_search_query": "1984 George Orwell"
+  },
+  {
+    "title": "Neverwhere",
+    "author": "Neil Gaiman",
+    "genre": "Urban Fantasy",
+    "description": "Under the streets of London there's a world most people could never even dream of: a city of monsters and saints, murderers and angels, and pale girls in black velvet.",
+    "cover_url": "https://m.media-amazon.com/images/I/91D670E7jrL._AC_UY218_.jpg",
+    "amazon_search_query": "Neverwhere Neil Gaiman"
+  },
+  {
+    "title": "Normal People",
+    "author": "Sally Rooney",
+    "genre": "Contemporary Fiction",
+    "description": "At school Connell and Marianne pretend not to know each other. He's popular and well-adjusted, star of the school football team, while she is lonely, proud, and intensely private.",
+    "cover_url": "https://m.media-amazon.com/images/I/61nxdxq-XwL._AC_UY218_.jpg",
+    "amazon_search_query": "Normal People Sally Rooney"
+  }
+]
